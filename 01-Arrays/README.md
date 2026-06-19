@@ -13,3 +13,4 @@ Solved: 11 Problems
 - [x] Move Zeroes
 - [x] Sort Colors
 - [x] Search in Rotated Sorted Array
+- [x] Sign of the Product of an Array
