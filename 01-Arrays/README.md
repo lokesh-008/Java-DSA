@@ -14,3 +14,4 @@ Solved: 11 Problems
 - [x] Sort Colors
 - [x] Search in Rotated Sorted Array
 - [x] Sign of the Product of an Array
+- [x] Remove Element
