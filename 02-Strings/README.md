@@ -7,6 +7,7 @@ Solved Problems
 - [x] LeetCode 1678 - Goal Parser Interpretation
 - [x] LeetCode 1528 - Shuffle String
 - [x] LeetCode 242 - Valid Anagram
+- [x] LeetCode 443 - String Compression
 
 Topics Covered
 
