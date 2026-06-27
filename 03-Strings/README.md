@@ -9,3 +9,4 @@ Solved Problems
 - [x] LeetCode 242 - Valid Anagram
 - [x] LeetCode 443 - String Compression
 - [x] LeetCode 2114 - Maximum Number of Words Found in Sentences
+- [x] LeetCode 1903 - Largest Odd Number in String
