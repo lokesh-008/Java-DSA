@@ -1,4 +1,4 @@
-# My Java DSA Journey 🚀
+# Java DSA Journey 🚀
 
 This repository contains my Data Structures and Algorithms practice in Java.
 
