@@ -10,3 +10,5 @@ Solved Problems
 - [x] LeetCode 443 - String Compression
 - [x] LeetCode 2114 - Maximum Number of Words Found in Sentences
 - [x] LeetCode 1903 - Largest Odd Number in String
+- [x] LeetCode 125 - Valid Palindrome
+
