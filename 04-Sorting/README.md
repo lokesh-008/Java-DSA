@@ -1,19 +1,24 @@
 # Sorting
 
-This folder contains Java implementations of various sorting algorithms and sorting-based LeetCode problems.
+This folder contains Java implementations of sorting algorithms and sorting-based LeetCode problems.
 
 ## Solved Problems
 
-| # | Problem | Difficulty | Sorting Technique |
-|---|---------|------------|-------------------|
+| # | Problem | Difficulty | Technique |
+|---|---------|------------|-----------|
 | 1 | Majority Element | Easy | Insertion Sort |
+| 2 | Sort Colors | Medium | Dutch National Flag |
 
 ## Concepts Covered
 
+- Bubble Sort
+- Selection Sort
 - Insertion Sort
-- Comparison-Based Sorting
+- Merge Sort
+- Quick Sort
+- Dutch National Flag Algorithm
 - In-place Sorting
-- Majority Element Property
+- Comparison-Based Sorting
 
 ## Language
 
@@ -21,4 +26,4 @@ This folder contains Java implementations of various sorting algorithms and sort
 
 ---
 
-⭐ More sorting algorithms and sorting-based interview problems will be added regularly.
+⭐ More sorting algorithms and interview problems will be added regularly.
