@@ -4,9 +4,10 @@ This folder contains Java solutions to Searching problems from LeetCode.
 
 ## Solved Problems
 
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 1 | Binary Search | Easy |
+| # | Problem | Difficulty | Technique |
+|---|---------|------------|-----------|
+| 1 | Binary Search | Easy | Binary Search |
+| 2 | Find First and Last Position of Element in Sorted Array | Medium | Lower Bound + Upper Bound |
 
 ## Concepts Covered
 
