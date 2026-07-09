@@ -8,7 +8,8 @@ This folder contains Java solutions to Searching problems from LeetCode.
 |---|---------|------------|-----------|
 | 1 | Binary Search | Easy | Binary Search |
 | 2 | Find First and Last Position of Element in Sorted Array | Medium | Lower Bound + Upper Bound |
-| 3 | Peak Index in a Mountain Array | Medium | Binary Search |
+| 3 | Peak Index in Mountain Array | Medium | Binary Search |
+| 4 | Sqrt(x) | Easy | Binary Search on Answer |
 
 ## Concepts Covered
 
