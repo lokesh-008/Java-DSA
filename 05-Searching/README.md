@@ -12,6 +12,8 @@ This folder contains Java solutions to Searching problems from LeetCode.
 | 4 | Sqrt(x) | Easy | Binary Search on Answer |
 | 5 | Search in Rotated Sorted Array | Medium | Modified Binary Search |
 | 6 | Find K Closest Elements | Medium | Binary Search + Two Pointers |
+| 7 | Find the Smallest Divisor Given a Threshold | Medium | Binary Search on Answer |
+
 
 ## Concepts Covered
 
