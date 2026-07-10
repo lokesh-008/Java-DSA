@@ -11,6 +11,7 @@ This folder contains Java solutions to Searching problems from LeetCode.
 | 3 | Peak Index in Mountain Array | Medium | Binary Search |
 | 4 | Sqrt(x) | Easy | Binary Search on Answer |
 | 5 | Search in Rotated Sorted Array | Medium | Modified Binary Search |
+| 6 | Find K Closest Elements | Medium | Binary Search + Two Pointers |
 
 ## Concepts Covered
 
@@ -20,6 +21,9 @@ This folder contains Java solutions to Searching problems from LeetCode.
 - Mid Calculation
 - Logarithmic Time Complexity
 - Peak Finding
+- Lower Bound
+- Two Pointers
+- Binary Search + Two Pointers
 
 ## Language
 
