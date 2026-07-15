@@ -14,6 +14,7 @@ This folder contains Java solutions to Searching problems from LeetCode.
 | 6 | Find K Closest Elements | Medium | Binary Search + Two Pointers |
 | 7 | Find the Smallest Divisor Given a Threshold | Medium | Binary Search on Answer |
 | 8 | Valid Perfect Square | Easy | Binary Search |
+| 9 | Single Element in a Sorted Array | Medium | Binary Search (Index Parity) |
 
 
 ## Concepts Covered
