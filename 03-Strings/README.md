@@ -12,4 +12,5 @@ Solved Problems
 - [x] LeetCode 1903 - Largest Odd Number in String
 - [x] LeetCode 125 - Valid Palindrome
 - [x] LeetCode 151 - Reverse Words in a String
+- [x] LeetCode 58 - Length of Last Word
 
