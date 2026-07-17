@@ -6,19 +6,18 @@ This folder contains Java implementations of sorting algorithms and sorting-base
 
 | # | Problem | Difficulty | Technique |
 |---|---------|------------|-----------|
-| 1 | Majority Element | Easy | Insertion Sort |
-| 2 | Sort Colors | Medium | Dutch National Flag |
+| 1 | Sort an Array | Medium | Merge Sort |
+| 2 | Majority Element | Easy | Insertion Sort |
+| 3 | Sort Colors | Medium | Dutch National Flag |
 
 ## Concepts Covered
 
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
 - Merge Sort
-- Quick Sort
+- Insertion Sort
 - Dutch National Flag Algorithm
+- Divide and Conquer
+- Stable Sorting
 - In-place Sorting
-- Comparison-Based Sorting
 
 ## Language
 
