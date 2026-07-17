@@ -9,6 +9,7 @@ This folder contains Java implementations of sorting algorithms and sorting-base
 | 1 | Sort an Array | Medium | Merge Sort |
 | 2 | Majority Element | Easy | Insertion Sort |
 | 3 | Sort Colors | Medium | Dutch National Flag |
+| 4 | Reverse Pairs | Hard | Merge Sort + Counting |
 
 ## Concepts Covered
 
