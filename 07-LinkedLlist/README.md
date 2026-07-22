@@ -7,13 +7,14 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 | # | Problem | Difficulty | Technique |
 |---|---------|------------|-----------|
 | 1 | Delete Node in a Linked List | Medium | Node Overwrite |
+| 2 | Middle of the Linked List | Easy | Slow & Fast Pointer |
 
 ## Concepts Covered
 
 - Singly Linked List
-- Node Deletion
+- Slow & Fast Pointer (Tortoise and Hare)
 - Pointer Manipulation
-- In-place Modification
+- Node Deletion
 
 ## Language
 
