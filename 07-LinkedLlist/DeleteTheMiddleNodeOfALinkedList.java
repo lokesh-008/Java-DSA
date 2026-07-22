@@ -1,0 +1,51 @@
+/*
+Problem:
+LeetCode 2095 - Delete the Middle Node of a Linked List
+
+Link:
+https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+
+Approach:
+Slow and Fast Pointer
+
+- If the list contains only one node, return null.
+- Use slow and fast pointers to locate the middle node.
+- Keep slow one node before the middle.
+- Delete the middle node by updating the next pointer.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.next = next; }
+ * }
+ */
+
+class Solution {
+
+    public ListNode deleteMiddle(ListNode head) {
+
+        if(head.next == null) {
+            return null;
+        }
+
+        ListNode slow = head;
+        ListNode fast = slow.next.next;
+
+        while(fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        slow.next = slow.next.next;
+
+        return head;
+    }
+}
