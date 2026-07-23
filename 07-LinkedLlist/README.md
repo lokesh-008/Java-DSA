@@ -9,6 +9,7 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 | 1 | Delete Node in a Linked List | Medium | Node Overwrite |
 | 2 | Middle of the Linked List | Easy | Slow & Fast Pointer |
 | 3 | Delete the Middle Node of a Linked List | Medium | Slow & Fast Pointer |
+| 4 | Remove Nth Node From End of List | Medium | Two Pointers |
 
 ## Concepts Covered
 
