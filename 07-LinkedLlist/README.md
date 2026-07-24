@@ -13,6 +13,7 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 | 5 | Intersection of Two Linked Lists | Easy | Length Difference + Two Pointers |
 | 6 | Merge Two Sorted Lists | Easy | Dummy Node + Two Pointers |
 | 7 | Sort List | Medium | Merge Sort on Linked List |
+| 8 | Merge K Sorted Lists | Hard | Merge Sort (Pairwise Merge) |
 
 ## Concepts Covered
 
@@ -23,6 +24,7 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 - Merge Sort
 - Divide and Conquer
 - Pointer Manipulation
+- PairWise Merging
 
 ## Language
 
