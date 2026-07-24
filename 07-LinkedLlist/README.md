@@ -11,14 +11,16 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 | 3 | Delete the Middle Node of a Linked List | Medium | Slow & Fast Pointer |
 | 4 | Remove Nth Node From End of List | Medium | Two Pointers |
 | 5 | Intersection of Two Linked Lists | Easy | Length Difference + Two Pointers |
+| 6 | Merge Two Sorted Lists | Easy | Dummy Node + Two Pointers |
 
 ## Concepts Covered
 
 - Singly Linked List
-- Slow & Fast Pointer
+- Two Pointers
+- Dummy Node
 - Pointer Manipulation
-- Middle Node
-- Node Deletion
+- Length Difference Technique
+- Slow & Fast Pointer
 
 ## Language
 
