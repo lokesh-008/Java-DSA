@@ -14,6 +14,7 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 | 6 | Merge Two Sorted Lists | Easy | Dummy Node + Two Pointers |
 | 7 | Sort List | Medium | Merge Sort on Linked List |
 | 8 | Merge K Sorted Lists | Hard | Merge Sort (Pairwise Merge) |
+| 9 | Partition List | Medium | Two Dummy Lists |
 
 ## Concepts Covered
 
