@@ -19,6 +19,8 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 | 11 | Swap Nodes in Pairs | Medium | Dummy Node + Pointer Manipulation |
 | 12 | Reverse Linked List | Easy | Iterative (Three Pointers) |
 | 13 | Reverse Linked List | Easy | Recursion |
+| 14 | Palindrome Linked List | Easy | Reverse Second Half |
+| 15 | Palindrome Linked List | Easy | Deep Copy + Reverse |
 
 ## Concepts Covered
 
@@ -33,6 +35,8 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 - Odd-Even Rearrangement
 - Three Pointer Technique
 - Recursion
+- Deep Copy
+- Palindrome
 
 ## Language
 
