@@ -15,6 +15,7 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 | 7 | Sort List | Medium | Merge Sort on Linked List |
 | 8 | Merge K Sorted Lists | Hard | Merge Sort (Pairwise Merge) |
 | 9 | Partition List | Medium | Two Dummy Lists |
+| 10 | Odd Even Linked List | Medium | Odd-Even Pointer Rearrangement |
 
 ## Concepts Covered
 
@@ -26,6 +27,7 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 - Divide and Conquer
 - Pointer Manipulation
 - PairWise Merging
+- Odd-Even Rearrangement
 
 ## Language
 
