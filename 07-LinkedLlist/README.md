@@ -22,6 +22,7 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 | 14 | Palindrome Linked List | Easy | Reverse Second Half |
 | 15 | Palindrome Linked List | Easy | Deep Copy + Reverse |
 | 16 | Maximum Twin Sum of a Linked List | Medium | Slow & Fast Pointer + Reverse Second Half |
+| 17 | Reverse Linked List II | Medium | Split + Reverse + Reconnect |
 
 ## Concepts Covered
 
