@@ -25,6 +25,7 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 | 17 | Reverse Linked List II | Medium | Split + Reverse + Reconnect |
 | 18 | Reorder List | Medium | Find Middle + Reverse + Alternate Merge |
 | 19 | Add Two Numbers | Medium | Dummy Node + Carry Simulation |
+| 20 | Split Linked List in Parts | Medium | Length Calculation + Equal Distribution |
 
 ## Concepts Covered
 
