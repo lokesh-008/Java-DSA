@@ -24,6 +24,7 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 | 16 | Maximum Twin Sum of a Linked List | Medium | Slow & Fast Pointer + Reverse Second Half |
 | 17 | Reverse Linked List II | Medium | Split + Reverse + Reconnect |
 | 18 | Reorder List | Medium | Find Middle + Reverse + Alternate Merge |
+| 19 | Add Two Numbers | Medium | Dummy Node + Carry Simulation |
 
 ## Concepts Covered
 
