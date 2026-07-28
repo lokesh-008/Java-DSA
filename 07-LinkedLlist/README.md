@@ -28,6 +28,7 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 | 20 | Split Linked List in Parts | Medium | Length Calculation + Equal Distribution |
 | 21 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | Single Traversal + Critical Point Tracking |
 | 22 | Copy List with Random Pointer | Medium | Deep Copy + Interweaving |
+| 23 | Flatten a Multilevel Doubly Linked List | Medium | DFS + Recursive Flattening |
 
 ## Concepts Covered
 
