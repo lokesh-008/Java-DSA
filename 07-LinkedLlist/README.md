@@ -29,22 +29,34 @@ This folder contains Java implementations of Linked List problems from LeetCode.
 | 21 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | Single Traversal + Critical Point Tracking |
 | 22 | Copy List with Random Pointer | Medium | Deep Copy + Interweaving |
 | 23 | Flatten a Multilevel Doubly Linked List | Medium | DFS + Recursive Flattening |
+| 24 | Swapping Nodes in a Linked List | Medium | Length Calculation + Node Value Swapping |
+| 25 | Linked List Cycle | Easy | Floyd's Cycle Detection (Slow & Fast Pointer) |
+| 26 | Linked List Cycle II | Medium | Floyd's Algorithm + Find Cycle Start |
+| 27 | Remove Duplicates from Sorted List | Easy | Two Pointers |
+| 28 | Rotate List | Medium | Length Calculation + Two Pointers |
 
 ## Concepts Covered
 
 - Singly Linked List
-- Dummy Node
+- Doubly Linked List
 - Slow & Fast Pointer
-- Two Pointers
-- Merge Sort
-- Divide and Conquer
+- Floyd's Cycle Detection Algorithm
+- Cycle Entry Detection
+- Length Calculation
+- Two Pointer Technique
+- Dummy Node
 - Pointer Manipulation
-- PairWise Merging
-- Odd-Even Rearrangement
-- Three Pointer Technique
-- Recursion
 - Deep Copy
-- Palindrome
+- Random Pointer
+- Interweaving Technique
+- DFS (Depth First Search)
+- Recursion
+- Multilevel Doubly Linked List
+- List Rotation
+- List Partitioning
+- Equal Distribution
+- Critical Point Detection
+- Index Tracking
 
 ## Language
 
