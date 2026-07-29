@@ -6,22 +6,25 @@ Link:
 https://leetcode.com/problems/spiral-matrix/
 
 Approach:
-Use four boundaries to traverse the matrix in spiral order.
+Boundary Traversal
 
-- Traverse Left → Right
-- Traverse Top → Bottom
-- Traverse Right → Left
-- Traverse Bottom → Top
+Maintain four boundaries:
+- minR (top row)
+- maxR (bottom row)
+- minC (left column)
+- maxC (right column)
 
-After each traversal, update the corresponding boundary.
-Repeat until all elements are visited.
+Traverse:
+1. Left → Right
+2. Top → Bottom
+3. Right → Left
+4. Bottom → Top
+
+After each traversal, shrink the corresponding boundary.
 
 Time Complexity: O(m × n)
 Space Complexity: O(1) (excluding output list)
 */
-
-import java.util.ArrayList;
-import java.util.List;
 
 class Solution {
     public List<Integer> spiralOrder(int[][] arr) {
@@ -33,6 +36,7 @@ class Solution {
 
         int minR = 0;
         int maxR = m - 1;
+
         int minC = 0;
         int maxC = n - 1;
 

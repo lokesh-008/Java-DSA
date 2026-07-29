@@ -6,12 +6,8 @@ Link:
 https://leetcode.com/problems/rotate-image/
 
 Approach:
-Rotate the matrix by 90° clockwise in-place.
-
-Steps:
 1. Transpose the matrix.
-2. Reverse each row by swapping the first and last columns,
-   then moving inward.
+2. Reverse each row by swapping columns.
 
 Time Complexity: O(n²)
 Space Complexity: O(1)
@@ -23,7 +19,7 @@ class Solution {
         int m = arr.length;
         int n = arr[0].length;
 
-        // Transpose the matrix
+        // Transpose
         for(int i = 0; i < n; i++) {
             for(int j = 0; j <= i; j++) {
 
@@ -33,7 +29,7 @@ class Solution {
             }
         }
 
-        // Reverse each row
+        // Reverse Columns
         int a = 0;
         int b = m - 1;
 

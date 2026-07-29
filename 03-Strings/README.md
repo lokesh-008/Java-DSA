@@ -1,16 +1,29 @@
-# Strings
+# 📝 Strings
 
-Solved Problems
+This folder contains interview-oriented string problems covering parsing, string manipulation, two pointers, hashing, and compression techniques.
 
-- [x] LeetCode 709 - To Lower Case
-- [x] LeetCode 1108 - Defanging an IP Address
-- [x] LeetCode 1678 - Goal Parser Interpretation
-- [x] LeetCode 1528 - Shuffle String
-- [x] LeetCode 242 - Valid Anagram
-- [x] LeetCode 443 - String Compression
-- [x] LeetCode 2114 - Maximum Number of Words Found in Sentences
-- [x] LeetCode 1903 - Largest Odd Number in String
-- [x] LeetCode 125 - Valid Palindrome
-- [x] LeetCode 151 - Reverse Words in a String
-- [x] LeetCode 58 - Length of Last Word
+## 📚 Problems
 
+| # | Problem | Difficulty | Technique |
+|---|---------|------------|-----------|
+| 1 | Length of Last Word | Easy | String Traversal |
+| 2 | Reverse Words in a String | Medium | Two Pointers |
+| 3 | Shuffle String | Easy | Index Mapping |
+| 4 | String Compression | Medium | Two Pointers |
+| 5 | Valid Anagram | Easy | Hashing |
+| 6 | Valid Palindrome | Easy | Two Pointers |
+
+## 🧠 Concepts Covered
+
+- String Traversal
+- Two Pointers
+- Hashing
+- Parsing
+- String Compression
+
+## 📊 Stats
+
+- Total Problems: **6**
+- Easy: **4**
+- Medium: **2**
+- Hard: **0**

@@ -15,6 +15,8 @@ This folder contains Java solutions to Searching problems from LeetCode.
 | 7 | Find the Smallest Divisor Given a Threshold | Medium | Binary Search on Answer |
 | 8 | Valid Perfect Square | Easy | Binary Search |
 | 9 | Single Element in a Sorted Array | Medium | Binary Search (Index Parity) |
+| 10 | Search Insert Position | Easy | Binary Search |
+
 
 
 ## Concepts Covered
