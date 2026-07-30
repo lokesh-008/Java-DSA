@@ -21,6 +21,7 @@ This folder contains beginner-friendly problems that focus on programming fundam
 | 13 | Shuffle the Array | Easy | Two Pointers |
 | 14 | Sign of the Product of an Array | Easy | Counting |
 | 15 | To Lower Case | Easy | String Manipulation |
+| 12 | Reverse Integer | Medium	| Mathematical Digit Extraction + Overflow Checking |
 
 ## 🧠 Concepts Covered
 
