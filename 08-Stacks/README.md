@@ -9,6 +9,7 @@ This folder contains stack-based interview problems that focus on the **Last In,
 | # | Problem | Difficulty | Technique |
 |---|---------|------------|-----------|
 | 1 | Valid Parentheses | Easy | Stack |
+| 2 | Min Stack | Medium | Auxillary Stack |
 
 ---
 
