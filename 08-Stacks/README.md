@@ -10,6 +10,7 @@ This folder contains stack-based interview problems that focus on the **Last In,
 |---|---------|------------|-----------|
 | 1 | Valid Parentheses | Easy | Stack |
 | 2 | Min Stack | Medium | Auxillary Stack |
+| 3 | Largest Rectangle in Histogram | Hard | Monotonic Stack |
 
 ---
 
