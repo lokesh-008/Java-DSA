@@ -12,6 +12,7 @@ This folder contains stack-based interview problems that focus on the **Last In,
 | 2 | Min Stack | Medium | Auxillary Stack |
 | 3 | Largest Rectangle in Histogram | Hard | Monotonic Stack |
 | 4 | Basic Calculator II | Medium | Stack |
+| 5 | Evaluate Reverse Polish Notation | Medium | Stack |
 
 ---
 
