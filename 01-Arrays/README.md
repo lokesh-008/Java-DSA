@@ -30,7 +30,7 @@ This folder contains interview-oriented array problems covering common technique
 - Product Computation
 - Zero Counting
 - Bit Manipulation (XOR)
-- Brute Force
+- Brute Force 
 
 ## 📊 Stats
 
