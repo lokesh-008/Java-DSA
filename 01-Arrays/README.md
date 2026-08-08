@@ -15,8 +15,9 @@ This folder contains interview-oriented array problems covering common technique
 | 7 | Product of Array Except Self | Medium | Product + Zero Counting |
 | 8 | Remove Element | Easy | Two Pointers |
 | 9 | Single Number | Easy | Bit Manipulation (XOR) |
-|10 | Squares of a Sorted Array | Easy | Two Pointers |
-|11 | Two Sum | Easy | Brute Force |
+| 10 | Squares of a Sorted Array | Easy | Two Pointers |
+| 11 | Two Sum | Easy | Brute Force |
+| 12 | Missing Number | Easy | Bit Manipulation |
 
 ## 🧠 Concepts Covered
 
