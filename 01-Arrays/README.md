@@ -18,6 +18,7 @@ This folder contains interview-oriented array problems covering common technique
 | 10 | Squares of a Sorted Array | Easy | Two Pointers |
 | 11 | Two Sum | Easy | Brute Force |
 | 12 | Missing Number | Easy | Bit Manipulation |
+| 13 | Max Consecutive Ones | Easy | Array Traversal |
 
 ## 🧠 Concepts Covered
 
