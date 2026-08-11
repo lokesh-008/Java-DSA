@@ -19,6 +19,7 @@ This folder contains interview-oriented array problems covering common technique
 | 11 | Two Sum | Easy | Brute Force |
 | 12 | Missing Number | Easy | Bit Manipulation |
 | 13 | Max Consecutive Ones | Easy | Array Traversal |
+| 14 | Sort Colors | Medium | Dutch National Flag Algorithm |
 
 ## 🧠 Concepts Covered
 
@@ -31,7 +32,9 @@ This folder contains interview-oriented array problems covering common technique
 - Product Computation
 - Zero Counting
 - Bit Manipulation (XOR)
-- Brute Force 
+- Brute Force
+- Dutch National Flag Algorithm
+- Three Pointers
 
 ## 📊 Stats
 
