@@ -8,7 +8,7 @@ This folder contains queue-based interview problems that focus on the **First In
 
 | **#** | **Problem** | **Difficulty** | **Technique** |
 | ----- | ----------- | -------------- | ------------- |
-| 1     | —           | —              | —             |
+| 1 | Implement Stack using Queues | Easy | Queue |
 
 ---
 
