@@ -10,6 +10,7 @@ This folder contains queue-based interview problems that focus on the **First In
 | ----- | ----------- | -------------- | ------------- |
 | 1 | Implement Stack using Queues | Easy | Queue |
 | 2 | Number of Students Unable to Eat Lunch | Easy | Queue + Stack |
+| 3 | Implement Queue using Stacks | Easy | Two Stacks |
 
 ---
 
