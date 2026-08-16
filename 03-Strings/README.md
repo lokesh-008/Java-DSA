@@ -12,6 +12,7 @@ This folder contains interview-oriented string problems covering parsing, string
 | 4 | String Compression | Medium | Two Pointers |
 | 5 | Valid Anagram | Easy | Hashing |
 | 6 | Valid Palindrome | Easy | Two Pointers |
+| 7 | First Unique Character in a String | Easy | Frequency Array |
 
 ## 🧠 Concepts Covered
 
@@ -20,6 +21,7 @@ This folder contains interview-oriented string problems covering parsing, string
 - Hashing
 - Parsing
 - String Compression
+- Frequency Array
 
 ## 📊 Stats
 
