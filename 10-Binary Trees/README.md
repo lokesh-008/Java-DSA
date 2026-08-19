@@ -9,6 +9,7 @@ This folder contains binary tree-based interview problems that focus on **tree t
 | **#** | **Problem**                    | **Difficulty** | **Technique** |
 | ----- | ------------------------------ | -------------- | ------------- |
 | 1 | Binary Tree Preorder Traversal | Easy           | Tree DFS      |
+| 2 | Binary Tree Postorder Traversal | Easy | Tree DFS |
 
 ---
 
