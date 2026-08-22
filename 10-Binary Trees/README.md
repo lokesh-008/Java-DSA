@@ -13,6 +13,7 @@ This folder contains binary tree-based interview problems that focus on **tree t
 | 3 | Binary Tree Inorder Traversal | Easy | Tree DFS |
 | 4 | Invert Binary Tree | Easy | Tree DFS |
 | 5 | Same Tree | Easy | Tree DFS |
+| 6 | Symmetric Tree | Easy | Tree DFS |
 
 ---
 
