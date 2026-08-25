@@ -14,6 +14,7 @@ This folder contains binary tree-based interview problems that focus on **tree t
 | 4 | Invert Binary Tree | Easy | Tree DFS |
 | 5 | Same Tree | Easy | Tree DFS |
 | 6 | Symmetric Tree | Easy | Tree DFS |
+| 7 | Diameter of Binary Tree | Easy | Tree DFS |
 
 ---
 
