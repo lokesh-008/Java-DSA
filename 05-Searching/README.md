@@ -16,6 +16,7 @@ This folder contains Java solutions to Searching problems from LeetCode.
 | 8 | Valid Perfect Square | Easy | Binary Search |
 | 9 | Single Element in a Sorted Array | Medium | Binary Search (Index Parity) |
 | 10 | Search Insert Position | Easy | Binary Search |
+| 11 | Guess Number Higher or Lower | Easy | Binary Search |
 
 
 
